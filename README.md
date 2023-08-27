@@ -16,8 +16,8 @@ tags:
 # Model Card for QA_GeneraToR
 
 # my fine tuned model
->This model is fine tuned to generate a question with answers from a context , why that can be very usful this can help you to generate a dataset from a book article any thing you would to make from it dataset and train another model on this dataset , give the model any context with pre prometed of quation you want + context and it will extarct question + answer for you 
-this are promted i use
+>This model is fine tuned to generate a question with answers from a context , why that can be very usful this can help you to generate a dataset from a book article any thing you would to make from it dataset and train another model on this dataset , give the model any context with pre prometed of below promete you want + context and it will extarct question and answer for you
+this are  prompts i use
 >[ "which", "how", "when", "where", "who", "whom", "whose", "why",
     "which", "who", "whom", "whose", "whereas",
     "can", "could", "may", "might", "will", "would", "shall", "should",
@@ -26,6 +26,8 @@ this are promted i use
     "will", "would", "shall", "should", "might", "may", "must",
     "may", "might", "must"]
 >
+>shape of input :promote: context
+>shape of output:quetion?#answer
 #  orignal model info
 <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/flan2_architecture.jpg"
 alt="drawing" width="600"/>
