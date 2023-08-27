@@ -1,5 +1,6 @@
 # dataset-generator
-> for deployment for prject https://huggingface.co/spaces/mohamedemam/QA_GeneraToR
+> for deployment for project https://huggingface.co/spaces/mohamedemam/QA_GeneraToR
+> model : https://huggingface.co/mohamedemam/QA_GeneraToR
 ---
 
 library_name: transformers
