@@ -29,6 +29,8 @@ this are  prompts i use
 >
 >shape of input :promote: context
 >shape of output:quetion?#answer
+>![image](https://github.com/mohamed-em2m/dataset-generator/assets/126331291/4723f0cb-8115-4eea-b965-93af2bb6d5b8)
+
 #  orignal model info
 <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/model_doc/flan2_architecture.jpg"
 alt="drawing" width="600"/>
